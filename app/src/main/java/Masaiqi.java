@@ -3,4 +3,5 @@
  */
 
 public class Masaiqi {
+    int i;
 }
