@@ -3,5 +3,5 @@
  */
 
 public class Masaiqi {
-    int i;
+    int i=0;
 }
